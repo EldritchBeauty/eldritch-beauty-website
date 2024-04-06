@@ -1,0 +1,80 @@
+﻿body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/*all*/
+.layout-container {
+    margin: 0;
+    background: #967bb6;
+    font-family: sans-serif;
+    color: #B9EAC7;
+    background-image: url("tentacle.png");
+}
+
+/*Nav*/
+.layout-heading {
+    display: flex;
+    background-color: #240638;
+    font-size: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-bottom: 4px solid #79C27C;
+    resize: none;
+    min-height: 100px;
+}
+
+/*ul*/
+.layout-nav-items {
+    width: 100%;
+    margin: 0;
+    margin-right: 20px;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+/*li links*/
+.layout-nav-link-item {
+    margin: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+/*li*/
+.layout-nav-normal-item {
+    margin: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    min-width: 500px;
+}
+
+/*Inactive Buttons*/
+.layout-nav-link-text:link, .layout-nav-link-text:visited {
+    border: 2px solid #79C27C;
+    background-color: #240638;
+    color: #B9EAC7;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+/*Active Buttons*/
+.layout-nav-link-text:hover, .layout-nav-link-text:active {
+    background-color: #967bb6;
+}
+
+.layout-body-block {
+    height: 100vh;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 90px;
+    padding: 20px;
+    border-left: 4px solid #79C27C;
+    border-right: 4px solid #79C27C;
+    background-color: #240638;
+}
