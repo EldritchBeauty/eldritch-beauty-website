@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\projects.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\projects.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -23,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\contact.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\404.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\404.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\resume.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\resume.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\404.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\404.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\gatsby-config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -42,31 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "layout.js",
-              "DocumentMoniker": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\layout.js",
-              "RelativeDocumentMoniker": "src\\pages\\layout.js",
-              "ToolTip": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\layout.js",
-              "RelativeToolTip": "src\\pages\\layout.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-02T23:16:53.637Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "layout.module.css",
               "DocumentMoniker": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\CSS\\layout.module.css",
               "RelativeDocumentMoniker": "src\\pages\\CSS\\layout.module.css",
               "ToolTip": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\CSS\\layout.module.css",
               "RelativeToolTip": "src\\pages\\CSS\\layout.module.css",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAABAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAuwHkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-03T00:20:51.494Z",
               "IsPinned": true,
@@ -74,20 +56,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\index.js",
               "RelativeDocumentMoniker": "src\\pages\\index.js",
               "ToolTip": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\index.js",
               "RelativeToolTip": "src\\pages\\index.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-02T00:21:09.272Z",
+              "WhenOpened": "2024-04-10T03:31:55.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "layout.js",
+              "DocumentMoniker": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\layout.js",
+              "RelativeDocumentMoniker": "src\\pages\\layout.js",
+              "ToolTip": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\layout.js",
+              "RelativeToolTip": "src\\pages\\layout.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-02T23:16:53.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "contact.js",
               "DocumentMoniker": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\contact.js",
               "RelativeDocumentMoniker": "src\\pages\\contact.js",
@@ -112,20 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "projects.js",
-              "DocumentMoniker": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\projects.js",
-              "RelativeDocumentMoniker": "src\\pages\\projects.js",
-              "ToolTip": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\projects.js",
-              "RelativeToolTip": "src\\pages\\projects.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-03T03:46:29.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "resume.js",
               "DocumentMoniker": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\src\\pages\\resume.js",
               "RelativeDocumentMoniker": "src\\pages\\resume.js",
@@ -137,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "gatsby-config.js",
               "DocumentMoniker": "C:\\Users\\troyk\\eldritch-beauty-gatsby-site\\gatsby-config.js",
               "RelativeDocumentMoniker": "gatsby-config.js",

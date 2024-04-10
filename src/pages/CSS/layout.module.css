@@ -14,20 +14,21 @@
     background-image: url("tentacle.png");
 }
 
-/*Nav*/
+/*Navbar*/
 .layout-heading {
     display: flex;
     background-color: #240638;
     font-size: 20px;
-    position: fixed;
     top: 0;
     width: 100%;
     border-bottom: 4px solid #79C27C;
+    position: fixed;
     resize: none;
     min-height: 100px;
+    z-index: 1
 }
 
-/*ul*/
+/*Navbar Horizontal List*/
 .layout-nav-items {
     width: 100%;
     margin: 0;
@@ -38,7 +39,7 @@
     align-items: center;
 }
 
-/*li links*/
+/*Navbar Button Item*/
 .layout-nav-link-item {
     margin: 10px;
     margin-top: 15px;
@@ -46,7 +47,7 @@
     display: inline-block;
 }
 
-/*li*/
+/*Navbar Item*/
 .layout-nav-normal-item {
     margin: 10px;
     margin-top: 15px;
@@ -56,7 +57,8 @@
 
 /*Inactive Buttons*/
 .layout-nav-link-text:link, .layout-nav-link-text:visited {
-    border: 2px solid #79C27C;
+    border-radius: 4px;
+    border: 6px solid #79C27C;
     background-color: #240638;
     color: #B9EAC7;
     padding: 10px 20px;
@@ -65,16 +67,72 @@
 
 /*Active Buttons*/
 .layout-nav-link-text:hover, .layout-nav-link-text:active {
-    background-color: #967bb6;
+    background-color: #79C27C;
+    color: #240638;
 }
 
+/*Body of Page*/
 .layout-body-block {
-    height: 100vh;
-    margin-right: 10%;
-    margin-left: 10%;
+    height: 200vh;
+    margin-right: 6%;
+    margin-left: 6%;
     margin-top: 90px;
     padding: 20px;
     border-left: 4px solid #79C27C;
     border-right: 4px solid #79C27C;
     background-color: #240638;
+}
+/*Index Page Grid Row Container*/
+.index-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+/*Index Page Item*/
+.index-item {
+    background-color: #240638;
+    border: 4px solid #79C27C;
+    margin: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #79C27C;
+}
+
+/*Index Page Item Image*/
+.index-item-image-top {
+    display: flex;
+    justify-content: center;
+    resize: none;
+    margin: 4px;
+}
+
+/*Index Page Item Title*/
+.index-item-middle {
+    display: flex;
+    justify-content: center;
+    color: #79C27C;
+    font-weight: bold;
+    border: 2px solid #79C27C;
+    border-right: 0px;
+    border-left: 0px;
+}
+
+/*Index Page Item Title Link Rules*/
+a, a:hover, a:visited, a:active {
+    color: inherit;
+}
+
+/*Index Page Item Text*/
+.index-item-bottom {
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border: 0px;
+    font-size: 16px;
 }
